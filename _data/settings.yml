@@ -2,20 +2,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: My Perfil
 logo:
 author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+description: CV de Ing. Jocellyn Luna
+email: sjmluna@espol.edu.ec
+phone: +593 995270940
+address: Cdla. Plaza Madeira, Guayas, Ecuador
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
+  - { name: Acerca de, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: Proyectos, link: "/portfolio" }
+  - { name: Contacto, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -36,22 +36,21 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: ¡Hola! Soy <br> Jocellyn Luna <br> Ingeniera en Computación
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/jocellyn-luna-gonz%C3%A1lez-b2a957168" }
+  - { icon: "ti-github", link: "https://github.com/jmlunag" }
+  - { icon: "ti-email", link: "mailto:jmluna@espol.edu.ec" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Ingeniera de Computación responsable y eficiente en busca de obtener experiencia profesional en Data Sciente, machine y deep learning. Cuento con habilidades de cara a la comunicación, al trabajo en equipo y al aprendizaje rápido.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: Conoce más
 
 # About Page
 
@@ -86,12 +85,12 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: Habilidades
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Investigación, color: "#fdb157", value: "90%" }
+  - { name: Remote Vision, color: "#9473e6", value: "75%" }
+  - { name: Data Science, color: "#bdecf6", value: "80%" }
+  - { name: Diseño Web, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
