@@ -15,7 +15,7 @@ menu:
   - { name: Acerca de, link: "/about" }
 #  - { name: Blog, link: "/blog" }
   - { name: Proyectos, link: "/portfolio" }
-#  - { name: Contacto, link: "/contact" }
+  - { name: Contacto, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
