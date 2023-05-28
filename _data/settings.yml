@@ -13,9 +13,9 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: Acerca de, link: "/about" }
-  - { name: Blog, link: "/blog" }
+#  - { name: Blog, link: "/blog" }
   - { name: Proyectos, link: "/portfolio" }
-  - { name: Contacto, link: "/contact" }
+#  - { name: Contacto, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -56,17 +56,17 @@ blurb-btn-name: Conoce más
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Investigación"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "He logrado participar en diferentes proyectos de investigación en diversos campos como imágenes médicas, IoT y remote sensing."
 
-  - title: "Design and Develop"
+  - title: "Diseño Web"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Trabajar con diversos framework para la creación de landing pages de diversos negocios utilizando Angular, Vue y demás."
 
-  - title: "Deliver"
+  - title: "Documentación"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Los proyectos incluyen una detallada documentación para su seguimiento y mantenimiento."
 
 # My Team Section
 team:
@@ -95,7 +95,7 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Experiencia
 experience:
   - {
       name: Junior UX Designer,
@@ -298,5 +298,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: Información de contacto
+contact-email: /f/mknaaklw
