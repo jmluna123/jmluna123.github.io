@@ -6,7 +6,7 @@ title: My Perfil
 logo: assets/images/about/logo.png
 author: themefisher
 description: CV de Ing. Jocellyn Luna
-email: sjmluna@espol.edu.ec
+email: jmluna@espol.edu.ec
 phone: +593 995270940
 address: Cdla. Plaza Madeira, Guayas, Ecuador
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
   - { name: Acerca de, link: "/about" }
 #  - { name: Blog, link: "/blog" }
-  - { name: Proyectos, link: "/portfolio" }
+  - { name: Proyectos, link: "/project" }
   - { name: Contacto, link: "/contact" }
 
 #-------------------------------
@@ -162,19 +162,19 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://smartenergydevelop.azurewebsites.net/#/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://github.com/jmluna123/ipear-energy-demand"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://github.com/jmluna123/desorders"
 
   - image: "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://github.com/jmluna123/nilmtk-contrib"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://www.sciencedirect.com/science/article/pii/S240589632101689X"
 
 # Portfolio Page
 portfolio-label:
