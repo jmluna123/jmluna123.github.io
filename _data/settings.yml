@@ -3,7 +3,7 @@
 # General Site Settings
 
 title: My Perfil
-logo:
+logo: assets/images/about/logo.png
 author: themefisher
 description: CV de Ing. Jocellyn Luna
 email: sjmluna@espol.edu.ec
@@ -98,48 +98,38 @@ skills:
 experience-title: Experiencia
 experience:
   - {
-      name: Junior UX Designer,
+      name: Técnico de Investigación,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Ene 2023 - Actualidad",
+      organization: "ESPOL",
     }
   - {
-      name: UX & UI Designer,
+      name: Asistente de Investigación,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Jul 2022 - Abr 2023",
+      organization: "Smart Energy",
     }
   - {
-      name: Senior UI Designer,
+      name: Desarrolladora de Aplicaciones Web,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sept 2020 - Oct 2020",
+      organization: "ESPOL",
     }
 
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Educación
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Ingeniería en Ciencias de la Computación,
+      date: "2022",
+      organization: "Escuela Superior Politécnica del Litoral",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: Bachiller en Ciencias,
+      date: "2017",
+      organization: "Centro de Estudios Espíritu Santo",
     }
 
 #-------------------------------
@@ -188,59 +178,42 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Investigación", type: "research" }
+  - { title: "Web", type: "web" }
+  - { title: "Code", type: "code" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://smartenergydevelop.azurewebsites.net/#/"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "web"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://github.com/jmluna123/ipear-energy-demand"
     portfolio-type:
-      - type: "branding"
+      - type: "code"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://github.com/jmluna123/desorders"
     portfolio-type:
-      - type: "illustration"
+      - type: "research"
+      - type: "code"
+
+  - image: "assets/images/portfolio/item-4.png"
+    url: "https://github.com/jmluna123/nilmtk-contrib"
+    portfolio-type:
+      - type: "research"
+      - type: "code"
 
   - image: "assets/images/portfolio/item-6.png"
-    url: "#"
+    url: "https://ieeexplore.ieee.org/document/9989825"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+      - type: "research"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://www.sciencedirect.com/science/article/pii/S240589632101689X"
     portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+      - type: "research"
 
 #-------------------------------
 # Testimonials Section
